@@ -1,7 +1,4 @@
-# 💫 About Me:
-<br><br>Halo! Saya mahasiswa Informatika Universitas Jenderal Soedirman yang sedang belajar dan mengembangkan kemampuan di bidang teknologi.<br><br>🌱 Belajar • Membangun • Berkembang
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&width=435&lines=Halo%2C+saya+Ermas;Mahasiswa+Informatika+UNSOED)](https://git.io/typing-svg)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ermasmuhammad_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syatafamuhammad@gmail.com) 
 
